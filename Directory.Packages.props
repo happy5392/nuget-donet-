@@ -1,0 +1,6 @@
+<Project>
+  <ItemGroup>
+    <PackageVersion Include="MyNuGetPackage" Version="1.0.0" />
+    <PackageVersion Include="lovelyshiva" Version="1.0.0" />
+  </ItemGroup>
+</Project>
